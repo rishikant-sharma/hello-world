@@ -10,3 +10,5 @@ It is suggesting that I either stash my changes or commit them.
 I have pushed the above changes to origin/my_branch
 
 Now I will create a pull request to push new_file to master
+
+Please accept pull request.
