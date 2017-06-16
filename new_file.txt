@@ -1,0 +1,8 @@
+Checkout out to readme-edits and master made this text file disappear.
+Checkout out to my_branch made this file reappear. 
+
+This hapened after I pused my changes to origin/my_branch.
+
+After writing the above comments in new_file in my_branch
+git is not allowing me to checkout to master or readme-edits.
+It is suggesting that I either stash my changes or commit them.
